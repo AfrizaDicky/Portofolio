@@ -462,7 +462,7 @@ span{
 }
 
 @media (max-width:450px){
-    htmml{
+    html{
         font-size: 50%;
     }
 }
